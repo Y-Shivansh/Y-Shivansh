@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]
 <h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sharma.shivansh1305@gmail.com**
 
-- ⚡ Fun fact **I think, I am a Coder?**
+- ⚡ Fun fact **I think, I am Coder?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
