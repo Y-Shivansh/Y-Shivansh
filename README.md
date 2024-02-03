@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sharma.shivansh1305@gmail.com**
 
-- ⚡ Fun fact **I think, I am Coder?**
+- ⚡ Fun fact **I think, I am a Coder?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
