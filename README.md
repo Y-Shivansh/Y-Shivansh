@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif)]
+[![MasterHead](https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)]
 <h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
