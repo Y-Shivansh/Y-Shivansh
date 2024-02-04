@@ -1,5 +1,5 @@
 [![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)]
-<h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
+<h1 align="center">𝙷ⅰ👋🏻, I'm Ⴝ𝚑𝗂˅𝚊𝚗𝚜𝚑 Ⴝ𝚑𝚊𝚛𝚖𝚊 </h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
 <img align="right" alt= "Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Node/Express Js, MERN,**
+- 💬 Ask me about **Node/Express Js, MERN**
 
 - 📫 How to reach me **sharma.shivansh1305@gmail.com**
 
