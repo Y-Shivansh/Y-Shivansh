@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@shivansh_zz" target="blank"><img src="https://img.shields.io/twitter/follow/@shivansh_zz?logo=twitter&style=for-the-badge" alt="@shivansh_zz" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA** and **Next.js**
 
 - 💬 Ask me about **Node/Express Js, MERN**
 
