@@ -11,7 +11,7 @@
 - 💬 Ask me about **Node.js, Express.js, React.js, Python & Java**
 - 📫 How to reach me: sharma.shivansh1305@gmail.com
 - 👨‍💻 All of my projects: [Portfolio](https://shivanshsharma.vercel.app)
-- 📄 My resume: [<img src="https://img.shields.io/badge/Click_Here-white" width=70 />](https://drive.google.com/file/d/1ugiEL4hDomSf1KdSZCFyAMRAocHja6pf/view?usp=drive_link)
+- 📄 My resume: [<img src="https://img.shields.io/badge/Click_Here-white" width=70 />](https://drive.google.com/file/d/1VFu2CoXLMiYUH9b9lyy8CG8eUkvIXLHb/view?usp=sharing)
 
 ---
 
