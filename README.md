@@ -97,14 +97,6 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 
-### Thanks for visiting! ⭐ Star some repos if you find them interesting!
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Y-Shivansh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br/><br/>
-  <i>“Code. Learn. Repeat.”</i> ⚡
-</div>
-
+###  ⭐ Star some repos if you find them interesting!
 
 </div>
