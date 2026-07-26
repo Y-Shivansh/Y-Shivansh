@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
+<h1 align="center">Hi, I'm Shivansh</h1>
 <h3 align="center">
-  I <img src="https://img.shields.io/badge/design_APIs-red?style=flat-circle" width=120 />, 
-  <img src="https://img.shields.io/badge/ship_React_apps-grey?style=flat-circle" width=150 />, 
-  and occasionally 
-  <img src="https://img.shields.io/badge/drop_dad_jokes-yellow?style=flat-square" width=150 />
+  I <img src="https://img.shields.io/badge/design_systems-purple?style=flat-circle" width=120 />, 
+  <img src="https://img.shields.io/badge/ship_products-white?style=flat-circle" width=110 />, 
+  and 
+  <img src="https://img.shields.io/badge/drop_dad_jokes-gold?style=flat-circle" width=120 />
   to remind humans we're still here.
 </h3>
 
-- 🌱 I'm currently learning **FastAPI & AI Agents and AI/ML**
-- 💬 Ask me about **Node.js, Express.js, React.js, Python & Java**
-- 📫 How to reach me: sharma.shivansh1305@gmail.com
+- 🌱 I'm currently understanding **Systems & Agentic AI**
+- 💬 Chat with me about technology.
+- 📫 Reach: [sharma.shivansh1305@gmail.com](mailto:sharma.shivansh1305@gmail.com)
 - 👨‍💻 All of my projects: [Portfolio](https://shivanshsharma.vercel.app)
-- 📄 My resume: [<img src="https://img.shields.io/badge/Click_Here-white" width=70 />](https://drive.google.com/file/d/1VFu2CoXLMiYUH9b9lyy8CG8eUkvIXLHb/view?usp=sharing)
+- 📄 My resume: [<img src="https://img.shields.io/badge/Click_Here-white" width=70 />]([https://drive.google.com/file/d/1VFu2CoXLMiYUH9b9lyy8CG8eUkvIXLHb/view?usp=sharing](https://drive.google.com/file/d/1VFu2CoXLMiYUH9b9lyy8CG8eUkvIXLHb/view?usp=drive_link))
 
 ---
 
